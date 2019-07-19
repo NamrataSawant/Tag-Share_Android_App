@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "186617708266",
+    "firebase_url": "https://integratedproject-39537.firebaseio.com",
+    "project_id": "integratedproject-39537",
+    "storage_bucket": "integratedproject-39537.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186617708266:android:c18df2bd030892d6",
+        "android_client_info": {
+          "package_name": "com.example.namrata.integratedproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186617708266-appbqb5c135p0v8f9eg4pgmc8q5pauig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.namrata.integratedproject",
+            "certificate_hash": "138929a65868a28bfb90cbcff04e6fbee6db1ba4"
+          }
+        },
+        {
+          "client_id": "186617708266-eh700qc4hu565lu3smiirfdcq1gu0qrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAstIV23EtoofBMuLIYfSzi38g06tmX1Cw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186617708266-eh700qc4hu565lu3smiirfdcq1gu0qrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186617708266:android:97fa2f8a817b118b",
+        "android_client_info": {
+          "package_name": "com.example.namrata.tagnshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186617708266-j1fobti0nn5mhk72jcvamacbd2dhd6m8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.namrata.tagnshare",
+            "certificate_hash": "138929a65868a28bfb90cbcff04e6fbee6db1ba4"
+          }
+        },
+        {
+          "client_id": "186617708266-eh700qc4hu565lu3smiirfdcq1gu0qrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAstIV23EtoofBMuLIYfSzi38g06tmX1Cw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186617708266-eh700qc4hu565lu3smiirfdcq1gu0qrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
